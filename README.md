@@ -6,7 +6,8 @@
 * `git add` - stage changes for commit
 * `git commit -m "Message"` - commit staged changes to local repository
 * `git log` - list commits
-* `git log --oneline`- list commits in compact formate
+* `git log --oneline`- list commits in compact format
+* `git config --list` - list current git configuration 
 
 ### Branching Commands
 * `git branch -M newName` - Rename current branch to `newName`
