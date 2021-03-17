@@ -11,3 +11,5 @@
 ### Branching Commands
 * `git branch -M newName` - Rename current branch to `newName`
 * `git branch newBranch` - Create Branch `newBranch`
+* `git branch` - lists local branches, indicating current branch
+* `git checkout newBranch` - Make `newBranch` the current branch
