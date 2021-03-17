@@ -6,3 +6,6 @@
 * `git add` - stage changes for commit
 * `git commit -m "Message"` - commit staged changes to local repository
 * d
+* d
+* d
+* d
