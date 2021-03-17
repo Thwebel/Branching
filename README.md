@@ -8,6 +8,8 @@
 * `git log` - list commits
 * `git log --oneline`- list commits in compact format
 * `git config --list` - list current git configuration
+* `git config --help` - shows list of commands
+
 ### Remote Commands
 * `git pull origin main` - pull remote branch `main` into current local branch
 * `git push origin main` - push local commits to remote repository
