@@ -20,3 +20,6 @@
 * `git branch` - lists local branches, indicating current branch
 * `git checkout newBranch` - Make `newBranch` the current branch
 * `git checkout -b otherBranch` - Create and checkout `otherBranch`
+
+### Quick Test
+* 'code' - text 'otherCode' 
